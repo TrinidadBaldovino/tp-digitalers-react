@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;500;600&family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;1,200&display=swap');
+.nosotros-iconos {
+    margin: 3em 0;
+  }
+  
+  .nosotros-iconos i {
+    margin-right: 0.8em;
+    padding: 0;
+    color: #323232;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  }
+  
+  .nosotros-iconos li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+  
+  .nosotros-iconos i:hover {
+    color: rgb(108, 12, 198);
+    transition: all 0.6s;
+  }
+  
+  /*.nosotros-iconos i.fb:hover {
+    color: #1877f2;
+    transition: all 0.6s;
+  }*/
+  
+  .datos-footer {
+    margin-right: 0%;
+    font-size: 0.8rem;
+    text-align: center;
+  }
+
+  .titulo-destacado {
+    font-family: 'Source Code Pro', Arial, Helvetica, sans-serif;
+  }
+
+  .sobre-nosotros{
+    font-family: 'Play', Arial, Helvetica, sans-serif;
+  }

@@ -1,0 +1,61 @@
+.fondo.dark {
+  background-color: #201c24;
+  color: #fdfdfd;
+}
+
+.dark th,
+.dark td {
+  color: #fdfdfd;
+  background-color: #201c24 !important;
+}
+
+.dark .card {
+  background-color: rgb(67, 18, 42);
+  color: #dbd6d6;
+  border-color: rgb(67, 18, 42);
+}
+
+.dark header {
+  background-color: #20132f;
+}
+
+.dark ul.fondo2 li {
+  background-color: rgb(67, 18, 42);
+  color: #d9dfe8;
+}
+
+body.dark {
+  background-color: #201c24;
+  color: #fdfdfd;
+}
+
+i.dark-icon {
+  color: #f3efef;
+}
+
+thead.dark-table {
+  background-color: #201c24;
+  color: #fdfdfd;
+}
+
+table {
+  background-color: transparent;
+}
+
+table.t-orginal {
+  background-color: #20132f;
+}
+
+.dark-carrito{
+  background-color: #201c24;
+}
+.dark-sol-luna{
+  color: #d9dfe8;
+  background-color: none;
+  border: none;
+ 
+}
+
+.dark-trash{
+  color: #dbd6d6;
+}

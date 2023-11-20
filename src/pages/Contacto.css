@@ -1,0 +1,135 @@
+section.row {
+    justify-content: center;
+  }
+  footer {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  
+  .fondo2 {
+    background-color: #e072a38a;
+  }
+  .fondo {
+    background-color: #d9dfe8;
+  }
+  
+  .fondo.dark {
+    background-color: #201c24;
+    color: #fdfdfd;
+    
+  }
+  
+  main.formulario {
+    min-height: 110vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  form {
+    margin-top: 5%;
+    margin-left: 35%;
+    padding: 30px 35px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    text-align: center;
+    width: 440px;
+  }
+  .input-group {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  label {
+    color: #573280;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    padding: 3px;
+  }
+  textarea,
+  input {
+    padding: 17px 25px;
+    border-radius: 25px 25px;
+    margin-bottom: 20px;
+    border: 2px solid #56328041;
+    outline: none;
+  }
+
+  .modalb{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #111111bd;
+    display: flex;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .6s .9s;
+    --transform: translateY(-100vh);
+    --transition: transform .8s;
+  }
+  
+  .modal--show{
+    opacity: 1;
+    pointer-events: unset;
+    transition: opacity .6s;
+    --transform: translateY(0);
+    --transition: transform .8s .8s;
+  }
+  
+  .modal-container{
+    margin: auto;
+    width: 90%;
+    max-width: 600px;
+    max-height: 90%;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 3em 2.5em;
+    display: grid;
+    gap: 1em;
+    place-items: center;
+    grid-auto-columns: 100%;
+    transform: var(--transform);
+    transition:var(--transition);
+  }
+  
+  .modal-title{
+    font-size: 2.5rem;
+    color: #20132f;
+  }
+  
+  .modal-paragraph{
+    margin-bottom: 10px;
+    color: #20132f;
+  }
+  
+  .modal-img{
+    width: 90%;
+    max-width: 300px;
+  }
+  
+  .modal-close{
+    text-decoration: none;
+    color: #fff;
+    background-color: #7713ac;
+    padding: 1em 3em;
+    border: 1px solid ;
+    border-radius: 6px;
+    display: inline-block;
+    font-weight: 300;
+    transition: background-color .3s;
+  }
+  
+  .modal-close:hover{
+    color: #f250e7;
+    background-color: #fff;
+  }
+
+  .datos-footer {
+    margin-right: 0%;
+    font-size: 0.8rem;
+    text-align: center;
+  }
+  

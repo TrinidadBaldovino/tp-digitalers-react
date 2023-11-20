@@ -1,0 +1,164 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Auriculares Samsung",
+      "color": "Blanco",
+      "caracteristicas": "Sin gomita de silicona",
+      "precio": 800,
+      "foto": "0000000000ml-sam11757auricular-samsung.jpg ",
+      "foto2": "0000000000ml-sam11757auricular-samsung.jpg",
+      "foto3": "0000000000ml-sam11757auricular-samsung.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Auriculares Inalámbricos A6S",
+      "color": "Negro",
+      "caracteristicas": "Bluetooth, 4hs de batería",
+      "precio": 5100,
+      "foto": "a6s2-fb2ac17274cfba48d416317196500928-640-0.jpg",
+      "foto2": "22220_medium.jpg",
+      "foto3": "a6s_negro211-21fa0cf7a89abc61cd16350242507865-640-0.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Mouse Noga",
+      "color": "Negro",
+      "caracteristicas": "con cable USB",
+      "precio": 1800,
+      "foto": "NG-611U.webp",
+      "foto2":"mouse-noganet-inalambrico-ng-900u-bk-no-incluye-pila.jpg",
+      "foto3":""
+    },
+    {
+      "id": 4,
+      "nombre": "Cargador tipo C",
+      "color": "blanco/negro",
+      "caracteristicas": "cargador ficha tipo C, carga normal",
+      "precio": 4500,
+      "foto": "TMCC813-removebg-preview.png",
+      "foto2":" WhatsApp-Image-2022-01-24-at-15.42.33.jpeg",
+      "foto3":""
+    },
+    {
+      "id": 5,
+      "nombre": "Auricular Vincha TIME",
+      "color": "blanco/negro/lila",
+      "caracteristicas": "vicha, cable desmontable",
+      "precio": 1200,
+      "foto": "mail-22.jpg",
+      "foto2": "4795e893875899a0878c0d72a658b656a2fa15e16409b4c3c163fdb0a8aa5a83153887.jpeg",
+      "foto3": ""    
+    },
+    {
+      "id": 6,
+      "nombre": "Cargador micro USB",
+      "color": "blanco/NEGRO",
+      "caracteristicas": "ficha tipo micro USB",
+      "precio": 1400,
+      "foto": "D_NQ_NP_862617-MLA70791840648_082023-O.webp",
+      "foto2": "K19.jpg",
+      "foto3": "" 
+    }
+  ],
+  "carrito": [
+    [
+      {
+        "id": 3,
+        "nombre": "Mouse Noga",
+        "color": "Negro",
+        "caracteristicas": "con cable USB",
+        "precio": 1800,
+        "foto": "",
+        "cantidad": 2
+      },
+      {
+        "id": 2,
+        "nombre": "Auriculares Inalámbricos A6S",
+        "color": "Negro",
+        "caracteristicas": "Bluetooth, 4hs de batería",
+        "precio": 5100,
+        "foto": "",
+        "cantidad": 2
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "nombre": "Mouse Noga",
+        "color": "Negro",
+        "caracteristicas": "con cable USB",
+        "precio": 1800,
+        "foto": "",
+        "cantidad": 2
+      },
+      {
+        "id": 2,
+        "nombre": "Auriculares Inalámbricos A6S",
+        "color": "Negro",
+        "caracteristicas": "Bluetooth, 4hs de batería",
+        "precio": 5100,
+        "foto": "",
+        "cantidad": 2
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "nombre": "Mouse Noga",
+        "color": "Negro",
+        "caracteristicas": "con cable USB",
+        "precio": 1800,
+        "foto": "",
+        "cantidad": 2
+      },
+      {
+        "id": 2,
+        "nombre": "Auriculares Inalámbricos A6S",
+        "color": "Negro",
+        "caracteristicas": "Bluetooth, 4hs de batería",
+        "precio": 5100,
+        "foto": "",
+        "cantidad": 2
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "nombre": "Mouse Noga",
+        "color": "Negro",
+        "caracteristicas": "con cable USB",
+        "precio": 1800,
+        "foto": "",
+        "cantidad": 2
+      },
+      {
+        "id": 2,
+        "nombre": "Auriculares Inalámbricos A6S",
+        "color": "Negro",
+        "caracteristicas": "Bluetooth, 4hs de batería",
+        "precio": 5100,
+        "foto": "",
+        "cantidad": 2
+      }
+    ],
+    {
+      "id": 2,
+      "nombre": "Auriculares Inalámbricos A6S",
+      "color": "Negri",
+      "caracteristicas": "Bluetooth, 4hs de batería",
+      "precio": 5100,
+      "foto": "",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "",
+      "color": "",
+      "caracteristicas": "",
+      "precio": 1400,
+      "foto": "",
+      "cantidad": 1
+    }
+  ]
+}
